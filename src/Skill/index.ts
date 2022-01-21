@@ -1,0 +1,1 @@
+export { default as SkillTabs } from './Tab';
